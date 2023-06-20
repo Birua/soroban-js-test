@@ -1,0 +1,14 @@
+{
+  "name": "soroban-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "soroban-client": "^0.8.1"
+  }
+}
